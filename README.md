@@ -1,9 +1,11 @@
 # Real-Estate-Management-System
 A real estate management system made in java for purposes of a university assignment.
 
-# Netcat Preview
-![netcat.png](https://i.postimg.cc/C1TBGmrL/netcat.png)
+# Login Preview
+![login.png](https://i.postimg.cc/CK4JXny0/login.png)
 
-# Netcat Roles Preview
-![netcatroles.png](https://i.postimg.cc/XJkJw3yQ/netcatroles.png)
+# Admin Preview
+![admin-View.png](https://i.postimg.cc/6QzLYsR5/admin-View.png)
 
+# Secretary Preview
+![secretary-View.png](https://i.postimg.cc/J0HNrGFG/secretary-View.png)
